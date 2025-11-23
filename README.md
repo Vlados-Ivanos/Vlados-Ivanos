@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.gifdb.com/pepe-frog-meme-sad-watching-computer-llr03woqoqiuoeii.gif" width="600" height="300"/>
+  <img src="https://media.gifdb.com/pepe-frog-meme-sad-watching-computer-llr03woqoqiuoeii.gif" width="300" height="300"/>
 </div>
 <h1>
   hey there
